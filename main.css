@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; }
+body{
+    background-color: #ADD8E6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}  
+main {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 48px;
+}
+.piggyvest-logo {
+    width: fit-content;
+    margin: 0 auto 47px auto;
+}
+.form-container {
+    max-width: 28rem;
+    background-color: #ffffff;
+    border-radius: 1.24rem 1.24rem 1.24rem 0;
+    padding: 2.5rem;
+
+}
+header {
+    text-align: center;
+}
+header h1 {
+    color: #0847b4;
+    font-family: 'U8', sans-serif;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 30px;
+}
+header p {
+    font-family: 'karla' sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #4a5568;
+}
+.sign-up {
+    margin-top: 32px;
+}
+.sign-up div {
+    margin-bottom: 32px;
+}
+.sign-up div label{
+    display: block;
+    max-width: 370px;
+    font-family: 'U8', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    color: #4a5568;
+}
+.sign-up div input, .sign-up div select, .submit-btn {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1a202c;
+    width: 100%;
+    border-radius: .25rem;
+    padding-left: .75rem;
+    border-width: 0;
+    background-color:#e8f0fe ;
+    padding: .75rem .5rem .75rem .75rem;
+    
+}
+
